@@ -24,9 +24,9 @@
         </destinationsrs>
     </mapcanvas>
     <legend updateDrawingOrder="false">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ham_posts" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ham_posts" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="ham_posts20120926210229729" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="ham_posts20120926210229729" visible="1"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="spag_cue_sheets - dirt_40" showFeatureCount="0">
@@ -110,13 +110,7 @@
                 </ComposerItem>
             </ComposerLegend>
             <ComposerPicture pictureWidth="8.9297" file="/Applications/QGIS 2.0-dev.app/Contents/Resources/svg/food/food_restaurant.svg" pictureHeight="11.5028" mapId="-1">
-                <ComposerItem width="8.9297" x="30.8287" y="360.802" rotation="0" height="11.5028" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="4.7034" id="" positionLock="false">
-                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
-                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-                </ComposerItem>
-            </ComposerPicture>
-            <ComposerPicture pictureWidth="8.9297" file="/Applications/QGIS 2.0-dev.app/Contents/Resources/svg/food/food_restaurant.svg" pictureHeight="11.5028" mapId="-1">
-                <ComposerItem width="8.9297" x="14.0324" y="451.163" rotation="0" height="11.5028" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="4.7034" id="" positionLock="false">
+                <ComposerItem width="8.9297" x="108.219" y="42.5224" rotation="0" height="11.5028" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="4.7034" id="" positionLock="false">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -128,7 +122,13 @@
                 </ComposerItem>
             </ComposerPicture>
             <ComposerPicture pictureWidth="8.9297" file="/Applications/QGIS 2.0-dev.app/Contents/Resources/svg/food/food_restaurant.svg" pictureHeight="11.5028" mapId="-1">
-                <ComposerItem width="8.9297" x="108.219" y="42.5224" rotation="0" height="11.5028" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="4.7034" id="" positionLock="false">
+                <ComposerItem width="8.9297" x="14.0324" y="451.163" rotation="0" height="11.5028" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="4.7034" id="" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerPicture>
+            <ComposerPicture pictureWidth="8.9297" file="/Applications/QGIS 2.0-dev.app/Contents/Resources/svg/food/food_restaurant.svg" pictureHeight="11.5028" mapId="-1">
+                <ComposerItem width="8.9297" x="30.8287" y="360.802" rotation="0" height="11.5028" frame="false" outlineWidth="0.3" zValue="23" lastValidViewScaleFactor="4.7034" id="" positionLock="false">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -143,7 +143,7 @@
                     <aliasEntry key="2" value="Mile"/>
                 </attributeAliasMap>
                 <sortColumns/>
-                <ComposerItem width="107.5" x="90.0627" y="301.431" rotation="0" height="250.144" frame="false" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="1.17585" id="" positionLock="false">
+                <ComposerItem width="107.5" x="90.0627" y="301.431" rotation="0" height="256.703" frame="false" outlineWidth="0.3" zValue="22" lastValidViewScaleFactor="1.17585" id="" positionLock="false">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>
@@ -283,7 +283,7 @@
                 <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" show="0" penWidth="0" penColorGreen="0">
                     <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Lucida Grande,13,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0"/>
                 </Grid>
-                <ComposerItem width="206.846" x="3.31653" y="16.3218" rotation="6" height="259.889" frame="true" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.3517" id="" positionLock="false">
+                <ComposerItem width="206.846" x="3.31653" y="16.3218" rotation="6" height="259.889" frame="true" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="1.17585" id="" positionLock="false">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>

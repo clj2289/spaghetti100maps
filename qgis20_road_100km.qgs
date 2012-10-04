@@ -5,9 +5,9 @@
         <units>meters</units>
         <extent>
             <xmin>1444604.013252</xmin>
-            <ymin>-1452467.266994</ymin>
+            <ymin>-1484070.027003</ymin>
             <xmax>1615961.200856</xmax>
-            <ymax>-1401551.709202</ymax>
+            <ymax>-1369948.949193</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -74,7 +74,7 @@
                     <aliasEntry key="2" value="Mile"/>
                 </attributeAliasMap>
                 <sortColumns/>
-                <ComposerItem width="117.5" x="1.98269" y="300.047" rotation="0" height="257.084" frame="false" outlineWidth="0.3" zValue="40" lastValidViewScaleFactor="1.17585" id="" positionLock="false">
+                <ComposerItem width="117.5" x="1.98269" y="300.047" rotation="0" height="250.15" frame="false" outlineWidth="0.3" zValue="40" lastValidViewScaleFactor="2.3517" id="" positionLock="false">
                     <FrameColor alpha="255" red="0" blue="0" green="0"/>
                     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
                 </ComposerItem>

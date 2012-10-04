@@ -5,9 +5,9 @@
         <units>meters</units>
         <extent>
             <xmin>1524850.190231</xmin>
-            <ymin>-1444202.790743</ymin>
+            <ymin>-1446457.973010</ymin>
             <xmax>1537078.289637</xmax>
-            <ymax>-1440569.441534</ymax>
+            <ymax>-1438314.259267</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -24,9 +24,9 @@
         </destinationsrs>
     </mapcanvas>
     <legend updateDrawingOrder="false">
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="ham_posts" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="ham_posts" showFeatureCount="0">
             <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="ham_posts20120926210021253" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="ham_posts20120926210021253" visible="1"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="spag_cue_sheets - road_35mi" showFeatureCount="0">
@@ -775,7 +775,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Line" type="vector" hasScaleBasedVisibilityFlag="0">
             <id>road_35mi20120925214238229</id>
-            <datasource>../../Downloads/road_35mi.shp</datasource>
+            <datasource>../Documents/spag/road_35mi.shp</datasource>
             <title></title>
             <abstract></abstract>
             <layername>road_35mi</layername>
